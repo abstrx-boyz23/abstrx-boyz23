@@ -1,2 +1,2 @@
 # learn-git
-Config files for my GitHub profile.
+Repository ini adalah Repo pribadi yg saya gunakan untuk belajar GitHub
